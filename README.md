@@ -43,6 +43,13 @@ This is my **second major project** in the Codecademy Front-End Developer career
 2. Open `index.html`, `style.css` and `script.js`  in your browser
 3. Explore the different sections (Colours, Typography, Spacing, Components...)
 
+## ✍️ Author
+
+🦋 Reine Vannel Studio  
+UX Designer & Front-End Developer  
+
+**Created with ❤️ — during my Front-End Developer courses on Codecademy.**
+
 ---
 
 **Made with ❤️ by [MarieReine26](https://github.com/MarieReine26)**
