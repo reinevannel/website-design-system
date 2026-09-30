@@ -45,13 +45,9 @@ This is my **second major project** in the Codecademy Front-End Developer career
 
 ## ✍️ Author
 
-🦋 Reine Vannel Studio  
+© 2026 🦋 Reine Vannel Studio  
 UX Designer & Front-End Developer  
 
 **Created with ❤️ — during my Front-End Developer courses on Codecademy.**
 
 ---
-
-**Made with ❤️ by [MarieReine26](https://github.com/MarieReine26)**
-
-© 2026 MarieReine Studio
